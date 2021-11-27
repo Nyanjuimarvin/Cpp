@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616908040 source:c:\users\purity\desktop\calc\main.c
+	<stdio.h>
+	<stdlib.h>
+

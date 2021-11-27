@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630137545 source:c:\projects\codeblocks\two dimensional array\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+

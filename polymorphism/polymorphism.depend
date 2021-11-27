@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1627115194 source:c:\projects\codeblocks\polymorphism\main.cpp
+	<iostream>
+	<iomanip>
+	"COMMISSIONEMPLOYEE.h"
+	"BASEPLUSCOMMISSIONEMPLOYEE.h"
+
+1627112581 c:\projects\codeblocks\polymorphism\commissionemployee.h
+	<string>
+
+1627117880 c:\projects\codeblocks\polymorphism\basepluscommissionemployee.h
+	<string>
+
+1627113408 source:c:\projects\codeblocks\polymorphism\commisssionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"CommissionEmployee.h"
+
+1627113631 source:c:\projects\codeblocks\polymorphism\basepluscommissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"BASEPLUSCOMMISSIONEMPLOYEE.h"
+

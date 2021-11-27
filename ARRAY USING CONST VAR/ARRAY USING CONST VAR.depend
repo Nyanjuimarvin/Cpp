@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622283712 source:c:\projects\codeblocks\array using const var\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+	<cstddef>
+

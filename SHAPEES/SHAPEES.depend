@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:c:\projects\codeblocks\shapees\main.cpp
+	<iostream>
+
+1634305096 source:c:\projects\codeblocks\shapees\shapees.cpp
+	<iostream>
+	"SHAPEES.h"
+
+1634303327 c:\projects\codeblocks\shapees\shapees.h
+	<iostream>
+	<array>
+

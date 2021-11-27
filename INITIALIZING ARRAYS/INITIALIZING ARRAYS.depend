@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622282092 source:c:\users\purity\desktop\initializing arrays\main.cpp
+	<iostream>
+	<iomanip>
+	<cstddef>
+

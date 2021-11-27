@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1631951866 source:c:\projects\codeblocks\stack array\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+	"STACK.h"
+
+1631952980 c:\projects\codeblocks\stack array\stack.h
+	<iostream>
+	<iomanip>
+	<array>
+
+1631951974 source:c:\projects\codeblocks\stack array\stack.cpp
+	<iostream>
+	<iomanip>
+	"STACK.h"
+

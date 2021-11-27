@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629450632 source:c:\projects\codeblocks\dice with random engine\main.cpp
+	<iostream>
+	<iomanip>
+	<random>
+	<ctime>
+

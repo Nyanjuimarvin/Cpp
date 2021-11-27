@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629531000 source:c:\projects\codeblocks\manipulating lists\main.cpp
+	<iostream>
+	<cstddef>
+

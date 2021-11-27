@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632565180 source:c:\projects\codeblocks\overloading stream operators\main.cpp
+	<iostream>
+	"PHONENUMBER.h"
+
+1632564534 source:c:\projects\codeblocks\overloading stream operators\phonenumber.cpp
+	<iomanip>
+	"PHONENUMBER.h"
+
+1632563619 c:\projects\codeblocks\overloading stream operators\phonenumber.h
+	<iostream>
+	<string>
+

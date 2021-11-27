@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630062340 source:c:\projects\codeblocks\frequency rating using array\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+

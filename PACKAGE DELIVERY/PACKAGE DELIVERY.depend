@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1628852716 source:c:\projects\codeblocks\package delivery\main.cpp
+	<iostream>
+	<iomanip>
+	"PACKAGE.h"
+	"TWO_DAY_PACKAGE.h"
+	"OVERNIGHT_PACKAGE.h"
+
+1628332663 source:c:\projects\codeblocks\package delivery\package.cpp
+	<iostream>
+	<stdexcept>
+	"PACKAGE.h"
+
+1628852684 c:\projects\codeblocks\package delivery\package.h
+	<string>
+
+1628335027 source:c:\projects\codeblocks\package delivery\two_day_package.cpp
+	<iostream>
+	<stdexcept>
+	"TWO_DAY_PACKAGE.h"
+
+1628333261 c:\projects\codeblocks\package delivery\two_day_package.h
+	<string>
+	"PACKAGE.h"
+
+1628334927 source:c:\projects\codeblocks\package delivery\overnight_package.cpp
+	<iostream>
+	<stdexcept>
+	"OVERNIGHT_PACKAGE.h"
+
+1628332214 c:\projects\codeblocks\package delivery\overnight_package.h
+	<string>
+	"PACKAGE.h"
+

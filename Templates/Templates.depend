@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627642628 source:c:\projects\codeblocks\templates\main.cpp
+	<iostream>
+
+1627642686 source:c:\projects\codeblocks\templates\class.cpp
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620389930 source:c:\users\purity\desktop\cube for\main.c
+	<stdio.h>
+	<stdlib.h>
+

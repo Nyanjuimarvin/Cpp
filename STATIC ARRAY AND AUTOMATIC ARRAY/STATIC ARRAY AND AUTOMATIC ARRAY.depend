@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630063267 source:c:\projects\codeblocks\static array and automatic array\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+

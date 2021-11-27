@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1633095638 source:c:\projects\codeblocks\overloaded increment operatrors\main.cpp
+	<iostream>
+	"DATE.h"
+
+1633096296 source:c:\projects\codeblocks\overloaded increment operatrors\date.cpp
+	<iostream>
+	<string>
+	"DATE.h"
+
+1633096454 c:\projects\codeblocks\overloaded increment operatrors\date.h
+	<array>
+	<iostream>
+

@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1584205420 source:c:\projects\codeblocks\book store\main.cpp
+	<iostream>
+
+1633772244 source:c:\projects\codeblocks\book store\book.cpp
+	<iostream>
+	<stdexcept>
+	"BOOK.h"
+
+1633696319 c:\projects\codeblocks\book store\book.h
+	<iostream>
+
+1633696833 source:c:\projects\codeblocks\book store\optxnew.cpp
+	<iostream>
+	<stdexcept>
+	"BOOK.h"
+	"OPTXNEW.h"
+
+1633696555 c:\projects\codeblocks\book store\optxnew.h
+	<iostream>
+	"BOOK.h"
+
+1633696987 source:c:\projects\codeblocks\book store\reqxused.cpp
+	<iostream>
+	<stdexcept>
+	"BOOK.h"
+	"REQXUSED.h"
+
+1633696555 c:\projects\codeblocks\book store\reqxused.h
+	<iostream>
+	"BOOK.h"
+
+1633697003 source:c:\projects\codeblocks\book store\optxused.cpp
+	<iostream>
+	<stdexcept>
+	"BOOK.h"
+	"OPTXUSED.h"
+
+1633696555 c:\projects\codeblocks\book store\optxused.h
+	<iostream>
+	"BOOK.h"
+
+1633697019 source:c:\projects\codeblocks\book store\reqxnew.cpp
+	<iostream>
+	<stdexcept>
+	"BOOK.h"
+	"REQXNEW.h"
+
+1633696555 c:\projects\codeblocks\book store\reqxnew.h
+	<iostream>
+	"BOOK.h"
+

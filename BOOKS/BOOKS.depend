@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1626441559 source:c:\users\purity\desktop\books\book.cpp
+	<iostream>
+	<stdexcept>
+	"BOOK.h"
+
+1626441944 source:c:\users\purity\desktop\books\main.cpp
+	<iostream>
+	<iomanip>
+	"BOOK.h"
+
+1626441044 c:\users\purity\desktop\books\book.h
+
+1626442024 source:c:\projects\codeblocks\books\book.cpp
+	<iostream>
+	<stdexcept>
+	"BOOK.h"
+
+1626441044 c:\projects\codeblocks\books\book.h
+
+1626523718 source:c:\projects\codeblocks\books\main.cpp
+	<iostream>
+	<iomanip>
+	"BOOK.h"
+

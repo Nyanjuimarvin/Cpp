@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616162752 source:c:\users\purity\desktop\hue\main.c
+	<stdio.h>
+	<stdlib.h>
+

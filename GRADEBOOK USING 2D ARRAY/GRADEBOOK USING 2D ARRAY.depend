@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1630675652 source:c:\projects\codeblocks\gradebook using 2d array\main.cpp
+	<iostream>
+	<array>
+	"GRADEBOOK.h"
+
+1631263247 source:c:\projects\codeblocks\gradebook using 2d array\gradebook.cpp
+	<iostream>
+	<iomanip>
+	"GRADEBOOK.h"
+
+1630139597 c:\projects\codeblocks\gradebook using 2d array\gradebook.h
+	<string>
+	<array>
+

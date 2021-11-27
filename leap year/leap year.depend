@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619264289 source:c:\users\purity\desktop\leap year\main.c
+	<stdio.h>
+	<stdlib.h>
+

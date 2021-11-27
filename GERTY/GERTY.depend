@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1632491655 source:c:\projects\codeblocks\gerty\list.cpp
+	<iostream>
+	<iomanip>
+	"LIST.h"
+
+1632492070 source:c:\projects\codeblocks\gerty\main.cpp
+	<iostream>
+	"LIST.h"
+
+1632491638 c:\projects\codeblocks\gerty\list.h
+	<iostream>
+	<string>
+

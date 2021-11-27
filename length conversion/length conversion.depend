@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619265568 source:c:\users\purity\desktop\length conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+

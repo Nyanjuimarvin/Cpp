@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622282611 source:c:\users\purity\desktop\initializer list\main.cpp
+	<iostream>
+	<iomanip>
+	<cstddef>
+

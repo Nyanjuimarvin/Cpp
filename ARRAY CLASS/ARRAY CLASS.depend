@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1633171085 source:c:\projects\codeblocks\array class\main.cpp
+	<iostream>
+	<stdexcept>
+	"ARRAY.h"
+
+1633171440 source:c:\projects\codeblocks\array class\array.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	"ARRAY.h"
+
+1633171569 c:\projects\codeblocks\array class\array.h
+	<iostream>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1626442734 source:c:\users\purity\desktop\baseclass\main.cpp
+	<iostream>
+	<iomanip>
+	"BASEPLUS.h"
+
+1626442502 source:c:\users\purity\desktop\baseclass\baseclasscommissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"BASEPLUS.h"
+
+1626442502 c:\users\purity\desktop\baseclass\baseplus.h
+	<string>
+
+1626442502 source:c:\projects\codeblocks\baseclass\baseclasscommissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"BASEPLUS.h"
+
+1626442502 c:\projects\codeblocks\baseclass\baseplus.h
+	<string>
+
+1626442734 source:c:\projects\codeblocks\baseclass\main.cpp
+	<iostream>
+	<iomanip>
+	"BASEPLUS.h"
+

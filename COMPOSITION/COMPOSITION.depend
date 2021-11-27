@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:c:\projects\codeblocks\composition\main.cpp
+	<iostream>
+
+1631350969 source:c:\projects\codeblocks\composition\date.cpp
+	<iostream>
+	<array>
+	<stdexcept>
+	"DATE.h"
+
+1631350403 c:\projects\codeblocks\composition\date.h
+

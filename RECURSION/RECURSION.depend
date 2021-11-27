@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629460612 source:c:\projects\codeblocks\recursion\main.cpp
+	<iostream>
+	<iomanip>
+

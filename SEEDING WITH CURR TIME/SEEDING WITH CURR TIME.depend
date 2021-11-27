@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628935370 source:c:\projects\codeblocks\seeding with curr time\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+

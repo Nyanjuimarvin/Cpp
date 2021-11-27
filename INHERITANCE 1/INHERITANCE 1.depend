@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1628257457 source:c:\projects\codeblocks\inheritance 1\commissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"CommissionEmployee.h"
+
+1627111517 c:\projects\codeblocks\inheritance 1\commissionemployee.h
+	<string>
+
+1627111806 source:c:\projects\codeblocks\inheritance 1\main.cpp
+	<iostream>
+	<iomanip>
+	"CommissionEmployee.h"
+

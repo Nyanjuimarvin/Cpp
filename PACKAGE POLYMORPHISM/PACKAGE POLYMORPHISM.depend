@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1630669854 source:c:\projects\codeblocks\package polymorphism\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"PACKAGE.h"
+	"TWO_DAY_PACKAGE.h"
+	"OVERNIGHT_PACKAGE.h"
+
+1630669296 source:c:\projects\codeblocks\package polymorphism\overnight_package.cpp
+	<iostream>
+	<stdexcept>
+	"OVERNIGHT_PACKAGE.h"
+
+1630669558 source:c:\projects\codeblocks\package polymorphism\package.cpp
+	<iostream>
+	<stdexcept>
+	"PACKAGE.h"
+
+1630669138 source:c:\projects\codeblocks\package polymorphism\two_day_package.cpp
+	<iostream>
+	<stdexcept>
+	"TWO_DAY_PACKAGE.h"
+
+1628858905 c:\projects\codeblocks\package polymorphism\overnight_package.h
+	<string>
+	"PACKAGE.h"
+
+1629535763 c:\projects\codeblocks\package polymorphism\package.h
+	<string>
+
+1628858905 c:\projects\codeblocks\package polymorphism\two_day_package.h
+	<string>
+	"PACKAGE.h"
+

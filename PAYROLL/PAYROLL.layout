@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1302" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="EMPLOYEE.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="413" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="BASEPLUSCOMMISSIONEMPLOYEE.cpp" open="1" top="1" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="470" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="SALARIEDEMPLOYEE.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="743" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="COMMISSIONEMPLOYEE.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="280" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="EMPLOYEE.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="947" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="SALARIEDEMPLOYEE.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="574" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="COMMISSIONEMPLOYEE.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="602" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="BASEPLUSCOMMISSIONEMPLOYEE.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="512" topLine="5" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

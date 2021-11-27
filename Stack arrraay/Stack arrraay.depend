@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625306180 source:c:\users\purity\desktop\stack arrraay\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+	<stack>
+

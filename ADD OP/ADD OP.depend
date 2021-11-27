@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\projects\codeblocks\add op\main.cpp
+	<iostream>
+
+1634380148 source:c:\projects\codeblocks\add op\opp.cpp
+	<iostream>
+	"OPP.h"
+
+1634380159 c:\projects\codeblocks\add op\opp.h
+	<iostream>
+

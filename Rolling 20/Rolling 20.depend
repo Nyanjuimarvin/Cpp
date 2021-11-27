@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622287840 source:c:\users\purity\desktop\rolling 20\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

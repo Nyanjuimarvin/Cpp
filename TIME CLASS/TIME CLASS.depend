@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1630748504 source:c:\projects\codeblocks\time class\main.cpp
+	<iostream>
+	<stdexcept>
+	"TIME.h"
+
+1630748011 source:c:\projects\codeblocks\time class\time.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	"TIME.h"
+
+1630744112 c:\projects\codeblocks\time class\time.h
+

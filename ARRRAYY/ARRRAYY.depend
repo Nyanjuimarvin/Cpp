@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630662002 source:c:\projects\codeblocks\arrrayy\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+	<algorithm>
+	<functional>
+

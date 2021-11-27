@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628932645 source:c:\projects\codeblocks\six sided die six million rolls\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

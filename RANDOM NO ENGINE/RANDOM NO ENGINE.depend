@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629449156 source:c:\projects\codeblocks\random no engine\main.cpp
+	<iostream>
+	<iomanip>
+	<random>
+	<ctime>
+

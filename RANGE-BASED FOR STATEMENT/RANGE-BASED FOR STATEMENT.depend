@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630064343 source:c:\projects\codeblocks\range-based for statement\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+

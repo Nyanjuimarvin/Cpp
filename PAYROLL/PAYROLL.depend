@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1628856430 source:c:\projects\codeblocks\payroll\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"EMPLOYEE.h"
+	"SALARIEDEMPLOYEE.h"
+	"COMMISSIONEMPLOYEE.h"
+	"BASEPLUSCOMMISSIONEMPLOYEE.h"
+
+1627646087 source:c:\projects\codeblocks\payroll\employee.cpp
+	<iostream>
+	"EMPLOYEE.h"
+
+1627124123 c:\projects\codeblocks\payroll\employee.h
+	<string>
+
+1627126441 source:c:\projects\codeblocks\payroll\salariedemployee.cpp
+	<iostream>
+	<stdexcept>
+	"SALARIEDEMPLOYEE.h"
+
+1627125546 c:\projects\codeblocks\payroll\salariedemployee.h
+	<string>
+	"EMPLOYEE.h"
+
+1627646157 source:c:\projects\codeblocks\payroll\commissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"COMMISSIONEMPLOYEE.h"
+
+1627127872 c:\projects\codeblocks\payroll\commissionemployee.h
+	<string>
+	"EMPLOYEE.h"
+
+1627647667 source:c:\projects\codeblocks\payroll\basepluscommissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"BASEPLUSCOMMISSIONEMPLOYEE.h"
+
+1627128346 c:\projects\codeblocks\payroll\basepluscommissionemployee.h
+	<string>
+	"COMMISSIONEMPLOYEE.h"
+

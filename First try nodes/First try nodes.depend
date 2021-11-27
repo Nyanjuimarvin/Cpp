@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623490938 source:c:\users\purity\desktop\first try nodes\main.cpp
+	<iostream>
+
+1629530655 source:c:\projects\codeblocks\first try nodes\main.cpp
+	<iostream>
+	<iomanip>
+	<cstddef>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:c:\projects\codeblocks\cascaded function calls\main.cpp
+	<iostream>
+
+1631359142 source:c:\projects\codeblocks\cascaded function calls\time.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	"TIME.h"
+
+1631359067 c:\projects\codeblocks\cascaded function calls\time.h
+

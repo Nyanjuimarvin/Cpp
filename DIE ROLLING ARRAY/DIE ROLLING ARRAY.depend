@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630056330 source:c:\projects\codeblocks\die rolling array\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+	<random>
+	<ctime>
+

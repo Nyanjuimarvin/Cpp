@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634384278 source:c:\projects\codeblocks\yyui\main.cpp
+	<iostream>
+	<array>
+
